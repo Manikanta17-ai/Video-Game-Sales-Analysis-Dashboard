@@ -1,5 +1,7 @@
 # Video Game Sales Analysis Dashboard 🎮📊
 
+![Screenshot 2024-12-10 132153](https://github.com/user-attachments/assets/690cf517-01f4-405a-b84d-a2a53e1bb4a7)
+
 ## Overview
 This project explores video game sales data from 1980 to 2020, providing insights into market trends, best-selling games, and regional sales distributions. The analysis is performed using SQL for data extraction, Python (Pandas) for preprocessing, and Power BI for interactive reporting.
 
@@ -58,6 +60,11 @@ This project explores video game sales data from 1980 to 2020, providing insight
 - **DAX** (Calculated Measures & KPIs)
 
 ## Dashboard : https://1drv.ms/u/c/a248c3697f20e322/EfCl2-CFgXxGgK4mcBfCpxsBtPiD4eLRbtbKPHyFJiLpNg?e=Kt4PkL
+
+![Screenshot 2024-12-10 132153](https://github.com/user-attachments/assets/43541f35-4170-4247-807a-588bd7213512)
+![Screenshot 2024-12-10 132312](https://github.com/user-attachments/assets/d4daeccb-ab71-4ef7-a897-c448e5caee9c)
+![Screenshot 2024-12-10 132242](https://github.com/user-attachments/assets/fe38841d-3f2d-4d07-863a-df3feefee25e)
+
 
 ## Conclusion
 Working on this project gave me a deeper understanding of the video game industry's sales patterns over the years. Using SQL, Python (Pandas), and Power BI, I was able to clean and analyze the data, uncovering key insights about top-selling games, popular platforms, and regional sales trends.
